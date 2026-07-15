@@ -21,4 +21,4 @@ plt.plot(x, y_pred, color="red")
 plt.xlabel("alcohol")
 plt.ylabel("quality")
 
-
+plt.show()
